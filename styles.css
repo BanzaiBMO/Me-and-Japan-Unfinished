@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+h1{
+	color: aqua;
+	align: center;
+}
+
+img{
+	width: 600px;
+	height: 500px;
+	align: left;
+}
+body{
+	color:#EBD014;
+	background-color: black;
+}
